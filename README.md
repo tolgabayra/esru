@@ -18,3 +18,8 @@ pip install -r requirements.txt
 ```
 ### Usage
 ![Alt text](usage_menu.png)
+
+- You analiys .txt, .md etc.
+- Make you sure file file path is correct.
+
+![Alt text](user_menu_2.png)
