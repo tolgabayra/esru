@@ -1,13 +1,14 @@
 ## Esru
 
->Esru, bir cli kelime analiz uygulamasıdır.
+>tr | Esru, bir cli kelime analiz uygulamasıdır.
+>eng | Esru is a cli word analysis application.
 
 ### Installion
 The easiest way to install project:
 </br>
 for linux/macos;
 
-- Create Virtual Enviroment
+- Create virtual enviroment and install packages
 ```bash
 python3 -m venv venv
 pip install -r requirements.txt
