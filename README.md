@@ -22,4 +22,4 @@ pip install -r requirements.txt
 - You analiys .txt, .md etc.
 - Make you sure file file path is correct.
 
-![Alt text](user_menu_2.png)
+![Alt text](result.png)
