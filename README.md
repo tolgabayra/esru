@@ -1,6 +1,8 @@
 ## Esru
 
 >tr | Esru, bir cli kelime analiz uygulamasıdır.
+</br>
+
 >eng | Esru is a cli word analysis application.
 
 ### Installion
